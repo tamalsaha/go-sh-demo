@@ -1,4 +1,2 @@
 github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 h1:sDMmm+q/3+BukdIpxwO365v/Rbspp2Nt5XntgQRXq8Q=
 github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
-github.com/gomodules/go-sh v0.0.0-20210311140041-6d1810c830ad h1:aLTjCouyD/VDimthWA+ZDxPVVi5Yy0AG/VHjgFyVbx4=
-github.com/gomodules/go-sh v0.0.0-20210311140041-6d1810c830ad/go.mod h1:VQx0hjo2oUeQkQUET7wRwradO6f+fN5jzXgB/zROxxE=
